@@ -34,4 +34,4 @@ Sample screenshot
 
 #### Version 1.4
 
-Feel free to edit, improvise the code.
+Feel free to edit, use and improvise the code. 
